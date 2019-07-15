@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">30sp</dimen>
+    <dimen name="profile_size">24sp</dimen>
+    <dimen name="my_size">18sp</dimen>
+    <dimen name="margin_dimension">8dp</dimen>
+    <dimen name="about_margin_top">68dp</dimen>
+    <dimen name="profile_btn_margin_top">260dp</dimen>
+    <dimen name="profile_image_dimension">300dp</dimen>
+    <dimen name="status_dimen">100dp</dimen>
+</resources>
